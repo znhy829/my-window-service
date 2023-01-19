@@ -1,0 +1,22 @@
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.csproj.AssemblyReference.cache
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.Service1.resources
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.csproj.GenerateResource.cache
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.csproj.CoreCompileInputs.cache
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.exe.config
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.exe
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.pdb
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.exe
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.pdb
+C:\Users\yzhu\OneDrive - Numeris\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.ProjectInstaller.resources
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.exe.config
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.exe
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.pdb
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.csproj.AssemblyReference.cache
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.ProjectInstaller.resources
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.Service1.resources
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.csproj.GenerateResource.cache
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.csproj.CoreCompileInputs.cache
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.exe
+C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\obj\Debug\Instar_Project.pdb

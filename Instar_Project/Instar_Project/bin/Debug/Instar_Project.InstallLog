@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.InstallLog
+   assemblypath = C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.exe
+   logtoconsole = 
+Installing service MyWindowService...
+Service MyWindowService has been successfully installed.
+Creating EventLog source MyWindowService in log Application...
+Committing assembly 'C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.InstallLog
+   assemblypath = C:\Users\yzhu\Desktop\Instar_Project\Instar_Project\bin\Debug\Instar_Project.exe
+   logtoconsole = 
